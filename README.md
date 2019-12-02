@@ -4,16 +4,16 @@
 
 ```bash
 # npm
-$ npm i formatnumber
+$ npm i format-number-simple
 
 # yarn
-$ yarn add formatnumber
+$ yarn add format-number-simple
 ```
 
 ## Usage
 
 ```js
-var formatnumber = require('formatnumber');
+var format = require('format-number-simple');
 
-formatnumber(100000); // 100,000
+format(100000); // 100,000
 ```
