@@ -1,5 +1,7 @@
 # format-number-simple
 
+simple number formatter
+
 ## Install
 
 ```bash
