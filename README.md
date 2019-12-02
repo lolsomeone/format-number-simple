@@ -15,5 +15,5 @@ $ yarn add formatnumber
 ```js
 var formatnumber = require('formatnumber');
 
-formatnumber(100000); // 100,1000
+formatnumber(100000); // 100,000
 ```
