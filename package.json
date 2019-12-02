@@ -1,6 +1,6 @@
 {
-  "name": "formatnumber",
-  "version": "0.0.1",
+  "name": "format-number-simple",
+  "version": "0.0.3",
   "description": "simple number formatter",
   "main": "index.js",
   "author": "lolsomeone",
@@ -12,6 +12,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lolsomeone/formatnumber.git"
+    "url": "https://github.com/lolsomeone/format-number-simple.git"
   }
 }
