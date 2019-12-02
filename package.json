@@ -13,5 +13,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/lolsomeone/formatnumber.git"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
   }
 }
