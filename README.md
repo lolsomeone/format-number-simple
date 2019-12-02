@@ -1,4 +1,4 @@
-# formatnumber
+# format-number-simple
 
 ## Install
 

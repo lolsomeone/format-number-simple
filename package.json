@@ -1,6 +1,6 @@
 {
   "name": "format-number-simple",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "simple number formatter",
   "main": "index.js",
   "author": "lolsomeone",
