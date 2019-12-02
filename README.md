@@ -17,5 +17,7 @@ $ yarn add format-number-simple
 ```js
 var format = require('format-number-simple');
 
-format(100000); // 100,000
+var formattedNumber = format(100000);
+
+console.log(formattedNumber); // 100,000
 ```
