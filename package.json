@@ -1,0 +1,17 @@
+{
+  "name": "formatnumber",
+  "version": "0.0.1",
+  "description": "simple number formatter",
+  "main": "index.js",
+  "author": "lolsomeone",
+  "license": "MIT",
+  "keywords": [
+    "format",
+    "number",
+    "simple"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lolsomeone/formatnumber.git"
+  }
+}
