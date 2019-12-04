@@ -1,1 +1,1 @@
-module.exports = require('./lib/formatnumber');
+module.exports = require('./lib/format-number-simple');
